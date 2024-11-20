@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on DigiGraf<br>🌱 I’m currently learning Vue
+🔭 I’m currently working on [![C# DigiGraf Badge](https://img.shields.io/badge/C%23%20DigiGraf-red.svg?logo=C-Sharp&logoColor=white)](https://patrickst1991.github.io/Uitvaartverzorging-Dossier-Registratie/)
+<br>
+🌱 I’m currently learning Vue
 
 
 ## 🌐 Socials:
