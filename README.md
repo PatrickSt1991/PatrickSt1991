@@ -58,15 +58,17 @@ I'm a technical application engineer with a passion for coding and creating inno
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%" style="border-collapse: collapse; border: none;">
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td valign="top" width="50%" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=PatrickSt1991&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 90%;" />
+    </td>
+    <td valign="top" width="50%" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickSt1991&hide_border=true&layout=compact" align="left" style="width: 90%;" />
+    </td>
+  </tr>
+</table>
 
-<img src="https://github-readme-stats.vercel.app/api?username=PatrickSt1991&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 90%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickSt1991&hide_border=true&layout=compact" align="left" style="width: 90%" />
-
-</td></tr></table>  
 
 <br/>  
 
