@@ -57,32 +57,13 @@ I'm a technical application engineer with a passion for coding and creating inno
 <br/>  
 
 
-## Github Stats  
-<table style="border-collapse: collapse; border: none;">
-  <tr>
-    <td valign="top" width="50%" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=PatrickSt1991&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 90%;" />
-    </td>
-    <td valign="top" width="50%" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickSt1991&hide_border=true&layout=compact" align="left" style="width: 90%;" />
-    </td>
-  </tr>
-</table>
-
-
-<br/>  
-
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=PatrickSt1991&show_icons=true&count_private=true&hide_border=true" style="max-width: 45%;" />
   
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickSt1991&hide_border=true&layout=compact" style="max-width: 45%;" />
+</div>
 
-<br/>  
+
+<br/>
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=PatrickSt1991&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
