@@ -10,7 +10,7 @@
 </a>  
 
 <a href="https://tyrrrz.me/ukraine" target="_blank">
-<img src=https://img.shields.io/badge/Support-Ukraine-FFD500?style=flat&labelColor=005BBB alt=Ukraine style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Support-Ukraine-FFD500?style=for-the-badge&labelColor=005BBB alt=Ukraine style="margin-bottom: 5px;" />
 </a>
 
 ### Nice to see you here!  
