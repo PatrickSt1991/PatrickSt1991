@@ -27,7 +27,8 @@ I'm a technical application engineer with a passion for coding and creating inno
 ## Rapidfire  
 - 🔭 I’m currently developing for
   - [homeassistant - afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) to help others implement their requests
-  - [ClubInfoBoard](https://github.com/PatrickSt1991/Sportlink.Club.Info.Viewer) a free to use dashboard for showing match info/ match results and pre match information 
+  - [ClubInfoBoard](https://github.com/PatrickSt1991/Sportlink.Club.Info.Viewer) a free to use dashboard for showing match info/ match results and pre match information
+  - [Jellyfin 2 Samsung](https://github.com/PatrickSt1991/Samsung-Jellyfin-Installer) Windows tool to quickly install Jellyfin onto you Samsung TV
   
 
 - 🌱 I’m currently learning Vue  
