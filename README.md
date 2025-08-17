@@ -31,6 +31,7 @@ I'm a technical application engineer with a passion for coding and creating inno
 - 🔭 I’m currently developing for
   - [ClubInfoBoard](https://github.com/PatrickSt1991/Sportlink.Club.Info.Viewer) a free to use dashboard for showing match info/ match results and pre match information
   - [Jellyfin 2 Samsung](https://github.com/PatrickSt1991/Samsung-Jellyfin-Installer) Windows tool to quickly install Jellyfin onto you Samsung TV
+  - [HA Afvalcontainer Cleaning](https://github.com/PatrickSt1991/ha-afvalcontainer-cleaning) Home Assistant integration to track waste container cleaning schedules.
   
 
 - 🌱 I’m currently learning Vue  
