@@ -46,7 +46,8 @@ I'm a technical application engineer with a passion for coding and creating inno
 
 - ⚡ Fun fact: I only run my applications in dark mode  
 
-
+- ✍️ Technical write-ups & guides
+  - [Running Legacy Tizen TV (≤ 5.5) Emulators on Modern Tizen Studio](https://gist.github.com/PatrickSt1991/efc5dba3f57dd55332229c068553328a)
 
 <br/>  
 
@@ -70,16 +71,5 @@ I'm a technical application engineer with a passion for coding and creating inno
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="25" /></a>  
 </div>  
 
-<br/>  
-
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=PatrickSt1991&show_icons=true&count_private=true&hide_border=true" style="max-width: 45%;" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickSt1991&hide_border=true&layout=compact" style="max-width: 45%;" />
-</div>
-
-
-<br/>
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=PatrickSt1991&&style=flat-square)  
