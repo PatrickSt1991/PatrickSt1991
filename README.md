@@ -29,18 +29,13 @@ I'm a technical application engineer with a passion for coding and creating inno
 
 ## Rapidfire  
 - 🖥️ I’m currently developing for
-  - [ClubInfoBoard](https://github.com/PatrickSt1991/Sportlink.Club.Info.Viewer) a free to use dashboard for showing match info/ match results and pre match information.
-    - [ClubInfoBoard-WordPress-Plugin](https://github.com/PatrickSt1991/Sportlink.Club.Info.Viewer.WordPress) a WordPress plugin version of ClubInfoBoard (Sportlink Viewer)
+  - [Sportlink - ClubInfoBoard](https://github.com/PatrickSt1991/Sportlink.Club.Info.Viewer) a free to use dashboard for showing match info/ match results and pre match information.
+    - [Sportlink - ClubInfoBoard-WordPress-Plugin](https://github.com/PatrickSt1991/Sportlink.Club.Info.Viewer.WordPress) a WordPress plugin version of ClubInfoBoard (Sportlink Viewer)
   - [Jellyfin 2 Samsung](https://github.com/PatrickSt1991/Samsung-Jellyfin-Installer) Tool to quickly install Jellyfin onto you Samsung TV.
-  - [HA Afvalcontainer Cleaning](https://github.com/PatrickSt1991/ha-afvalcontainer-cleaning) Home Assistant integration to track waste container cleaning schedules.
+  - [VLC Tizen](https://github.com/PatrickSt1991/vlc-tizen-tv) VLC Like player for your Samsung TV.
   - [DigiGraf Frontend](https://digigraf.madebypatrick.nl/) in conjunction with **DigiGraf Backend**.
+  - [HA Afvalcontainer Cleaning](https://github.com/PatrickSt1991/ha-afvalcontainer-cleaning) Home Assistant integration to track waste container cleaning schedules.
 
-- 🤝 I'm currently collaborating with
-  - [homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) Home Assistant integration to track waste pick-up dates. 
-  
-
-- 🌱 I’m currently learning Vue and React
-  
 
 - ❓ Ask me about anything  
   
