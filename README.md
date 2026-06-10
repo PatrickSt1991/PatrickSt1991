@@ -33,6 +33,7 @@ I'm a technical application engineer with a passion for coding and creating inno
     - [Sportlink - ClubInfoBoard-WordPress-Plugin](https://github.com/PatrickSt1991/Sportlink.Club.Info.Viewer.WordPress) a WordPress plugin version of ClubInfoBoard (Sportlink Viewer)
   - [Jellyfin 2 Samsung](https://github.com/PatrickSt1991/Samsung-Jellyfin-Installer) Tool to quickly install Jellyfin onto you Samsung TV.
   - [VLC Tizen](https://github.com/PatrickSt1991/vlc-tizen-tv) VLC Like player for your Samsung TV.
+  - [Flixor-Tizen](https://github.com/PatrickSt1991/flixor-tizen) Modern cross-platform Plex client. Ported to Tizen OS. (Netflix like)
   - [DigiGraf Frontend](https://digigraf.madebypatrick.nl/) in conjunction with **DigiGraf Backend**.
   - [HA Afvalcontainer Cleaning](https://github.com/PatrickSt1991/ha-afvalcontainer-cleaning) Home Assistant integration to track waste container cleaning schedules.
 
