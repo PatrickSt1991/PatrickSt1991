@@ -28,20 +28,15 @@ I'm a technical application engineer with a passion for coding and creating inno
 
 
 ## Rapidfire  
-- 🖥️ I’m currently developing for
+- 🖥️ I’m currently developing 
   - [Sportlink - ClubInfoBoard](https://github.com/PatrickSt1991/Sportlink.Club.Info.Viewer) a free to use dashboard for showing match info/ match results and pre match information.
     - [Sportlink - ClubInfoBoard-WordPress-Plugin](https://github.com/PatrickSt1991/Sportlink.Club.Info.Viewer.WordPress) a WordPress plugin version of ClubInfoBoard (Sportlink Viewer)
-  - [Jellyfin 2 Samsung](https://github.com/PatrickSt1991/Samsung-Jellyfin-Installer) Tool to quickly install Jellyfin onto you Samsung TV.
+  - [Apps 2 Samsung](https://github.com/Apps2Samsung/Apps2Samsung) Tool to quickly install Jellyfin onto you Samsung TV.
+  - [FlipIQ](https://github.com/PatrickSt1991/FlipIQ) Instantly estimate the value of games, consoles, DVDs, Blu-rays, LEGO, books, collectibles and electronics by comparing multiple marketplaces.
   - [VLC Tizen](https://github.com/PatrickSt1991/vlc-tizen-tv) VLC Like player for your Samsung TV.
   - [Flixor-Tizen](https://github.com/PatrickSt1991/flixor-tizen) Modern cross-platform Plex client. Ported to Tizen OS. (Netflix like)
   - [DigiGraf Frontend](https://digigraf.madebypatrick.nl/) in conjunction with **DigiGraf Backend**.
   - [HA Afvalcontainer Cleaning](https://github.com/PatrickSt1991/ha-afvalcontainer-cleaning) Home Assistant integration to track waste container cleaning schedules.
-
-
-- ❓ Ask me about anything  
-  
-
-- ⚡ Fun fact: I only run my applications in dark mode  
 
 - ✍️ Technical write-ups & guides
   - [Running Legacy Tizen TV (≤ 5.5) Emulators on Modern Tizen Studio](https://gist.github.com/PatrickSt1991/efc5dba3f57dd55332229c068553328a)
