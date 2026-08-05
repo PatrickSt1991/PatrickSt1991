@@ -32,7 +32,7 @@ I'm a technical application engineer with a passion for coding and creating inno
   - [Sportlink - ClubInfoBoard](https://github.com/PatrickSt1991/Sportlink.Club.Info.Viewer) a free to use dashboard for showing match info/ match results and pre match information.
     - [Sportlink - ClubInfoBoard-WordPress-Plugin](https://github.com/PatrickSt1991/Sportlink.Club.Info.Viewer.WordPress) a WordPress plugin version of ClubInfoBoard (Sportlink Viewer)
   - [Apps 2 Samsung](https://github.com/Apps2Samsung/Apps2Samsung) Tool to quickly install Jellyfin onto you Samsung TV.
-  - [FlipIQ](https://github.com/PatrickSt1991/FlipIQ) Instantly estimate the value of games, consoles, DVDs, Blu-rays, LEGO, books, collectibles and electronics by comparing multiple marketplaces.
+  - [Valoo](https://github.com/PatrickSt1991/Valoo) Instantly estimate the value of games, consoles, DVDs, Blu-rays, LEGO, books, collectibles and electronics by comparing multiple marketplaces.
   - [VLC Tizen](https://github.com/PatrickSt1991/vlc-tizen-tv) VLC Like player for your Samsung TV.
   - [Flixor-Tizen](https://github.com/PatrickSt1991/flixor-tizen) Modern cross-platform Plex client. Ported to Tizen OS. (Netflix like)
   - [DigiGraf Frontend](https://digigraf.madebypatrick.nl/) in conjunction with **DigiGraf Backend**.
