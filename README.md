@@ -40,6 +40,7 @@ I'm a technical application engineer with a passion for coding and creating inno
 
 - ✍️ Technical write-ups & guides
   - [Running Legacy Tizen TV (≤ 5.5) Emulators on Modern Tizen Studio](https://gist.github.com/PatrickSt1991/efc5dba3f57dd55332229c068553328a)
+  - [Unbricking the Askey o2 HomeSpot 2 (RTL0082VW)](https://gist.github.com/PatrickSt1991/d7f1c5da6a50fef2b5aa2940a4b116ec)
 
 <br/>  
 
